@@ -1,0 +1,82 @@
+.d-flex{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    
+}
+.abc{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+}
+.abu{
+    background-color: ddd;
+}
+.tulisan-putih{
+    color: rgb(44, 61, 99);
+   
+}
+.border{
+    border-radius: 10px;
+    border: none;
+}
+
+.tombol{
+     background-color: rgb(44, 61, 99);
+    color: aliceblue;
+}
+
+.spasi{
+    gap: 15px;    
+}
+.acc{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15px;
+    
+}
+.bag{
+    color: rgb(246, 242, 242);
+    
+}
+.back{
+    background-color: rgb(255, 254, 254);
+    
+}
+.center{
+    align-items: center;
+}
+.accc{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 30px;
+    
+}
+.flex-start{
+    align-items: flex-start;
+}
+
+.kotak{
+    background-color: rgb(194, 211, 225);
+    border-radius: 15px;
+    padding: 20px;
+}
+.kotac{
+    background-color: rgb(36, 60, 79);
+    padding: 20px;
+}
+.kotakk{
+    background-color: lightblue;
+    border-radius: 15px;
+    padding: 20px;
+    height: 30px;
+    width: 35px;
+}
+.putih{
+    text-decoration: none;
+    color: black;
+}
